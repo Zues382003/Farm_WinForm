@@ -1,0 +1,16 @@
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.csproj.AssemblyReference.cache
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm.Form1.resources
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.Properties.Resources.resources
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.csproj.GenerateResource.cache
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.csproj.CoreCompileInputs.cache
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\Farm3.exe.config
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\Farm3.exe
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\Farm3.pdb
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.exe
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.pdb
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\EntityFramework.dll
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\EntityFramework.xml
+C:\Users\Zues\source\repos\Farm\Farm3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zues\source\repos\Farm\Farm3\obj\Debug\Farm3.csproj.CopyComplete
